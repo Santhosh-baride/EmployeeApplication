@@ -1,2 +1,4 @@
-package com.app.EmployeeApplication.Exception;public class ClassNotFound {
+package com.app.EmployeeApplication.Exception;
+
+public class ClassNotFound {
 }
